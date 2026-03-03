@@ -1,5 +1,5 @@
 
-pm list packages
+# pm list packages
 package:com.android.camera
 package:com.android.wifi.resources.overlay
 package:com.google.android.providers.media.module
@@ -153,10 +153,19 @@ package:com.google.android.packageinstaller
 package:com.android.se
 package:com.android.pacprocessor
 
- pm list packages -3                                                                                                                                                                                                   
+# pm list packages -3                                                                                                                                                                                                   
 package:com.google.android.safetycore
 package:com.google.android.contactkeys
 package:com.miui.screenrecorder
 package:in.krosbits.musicolet  
 
 com.miui.screenrecorder keeps comming back
+
+# the ones with launcher
+com.android.camera
+com.android.chrome
+com.android.phone
+com.mi.android.globalFileexplorer
+com.android.vending
+com.miui.securitycenter 
+com.android.settings
