@@ -1,0 +1,13 @@
+adb pull /system/framework/framework-res.apk
+7z e framework-res.apk res/xml/config_webview_packages.xml
+
+its android binary xml : AXML,ABX, use ai , androguard,axmldec etc 
+
+<webviewproviders>
+    <webviewprovider 
+        description="Android WebView" 
+        packageName="com.android.webview" 
+        availableByDefault="true">
+    </webviewprovider>
+</webviewproviders>
+
