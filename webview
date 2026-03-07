@@ -11,3 +11,4 @@ its android binary xml : AXML,ABX, use ai , androguard,axmldec etc
     </webviewprovider>
 </webviewproviders>
 
+no custom webview without root or modifyting this apk
