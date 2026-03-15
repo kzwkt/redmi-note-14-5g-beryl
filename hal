@@ -1,0 +1,763 @@
+ lshal                                                                                                                                                                                                                 
+Warning: Skipping "android.frameworks.cameraservice.service@2.0::ICameraService/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.frameworks.cameraservice.service@2.1::ICameraService/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.frameworks.cameraservice.service@2.2::ICameraService/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.frameworks.displayservice@1.0::IDisplayService/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.frameworks.sensorservice@1.0::ISensorManager/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.audio.effect@7.0::IEffectsFactory/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.audio@7.0::IDevicesFactory/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.biometrics.face@1.0::IBiometricsFace/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.biometrics.fingerprint@2.1::IBiometricsFingerprint/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.bluetooth.audio@2.0::IBluetoothAudioProvidersFactory/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.bluetooth.audio@2.1::IBluetoothAudioProvidersFactory/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.bluetooth@1.0::IBluetoothHci/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.bluetooth@1.1::IBluetoothHci/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.boot@1.0::IBootControl/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.boot@1.1::IBootControl/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.boot@1.2::IBootControl/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.camera.provider@2.4::ICameraProvider/internal/0": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.camera.provider@2.5::ICameraProvider/internal/0": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.camera.provider@2.6::ICameraProvider/internal/0": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.drm@1.0::ICryptoFactory/clearkey": no information for PID 936, are you root?
+Warning: Skipping "android.hardware.drm@1.0::ICryptoFactory/widevine": no information for PID 937, are you root?
+Warning: Skipping "android.hardware.gatekeeper@1.0::IGatekeeper/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.gnss@1.0::IGnss/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.gnss@1.1::IGnss/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.gnss@2.0::IGnss/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.gnss@2.1::IGnss/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.graphics.allocator@4.0::IAllocator/default": no information for PID 945, are you root?
+Warning: Skipping "android.hardware.graphics.composer@2.1::IComposer/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.graphics.composer@2.2::IComposer/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.graphics.composer@2.3::IComposer/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.health@2.0::IHealth/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.health@2.1::IHealth/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.ir@1.0::IConsumerIr/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.media.c2@1.0::IComponentStore/default": no information for PID 952, are you root?
+Warning: Skipping "android.hardware.media.c2@1.0::IComponentStore/default1": no information for PID 974, are you root?
+Warning: Skipping "android.hardware.media.c2@1.0::IComponentStore/software": no information for PID 1467, are you root?
+Warning: Skipping "android.hardware.media.omx@1.0::IOmx/default": no information for PID 1361, are you root?
+Warning: Skipping "android.hardware.nfc@1.0::INfc/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.nfc@1.1::INfc/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.nfc@1.2::INfc/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio.config@1.0::IRadioConfig/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio.config@1.1::IRadioConfig/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio.config@1.3::IRadioConfig/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.0::IRadio/em1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.0::IRadio/em2": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.0::IRadio/imsAospSlot1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.0::IRadio/imsAospSlot2": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.0::IRadio/se1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.0::IRadio/se2": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.0::IRadio/slot1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.0::IRadio/slot2": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.0::ISap/slot1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.0::ISap/slot2": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.1::IRadio/em1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.1::IRadio/em2": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.1::IRadio/imsAospSlot1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.1::IRadio/imsAospSlot2": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.1::IRadio/se1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.1::IRadio/se2": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.1::IRadio/slot1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.1::IRadio/slot2": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.1::ISap/slot1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.1::ISap/slot2": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.2::IRadio/em1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.2::IRadio/em2": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.2::IRadio/imsAospSlot1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.2::IRadio/imsAospSlot2": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.2::IRadio/se1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.2::IRadio/se2": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.2::IRadio/slot1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.2::IRadio/slot2": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.2::ISap/slot1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.2::ISap/slot2": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.3::IRadio/em1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.3::IRadio/em2": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.3::IRadio/imsAospSlot1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.3::IRadio/imsAospSlot2": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.3::IRadio/se1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.3::IRadio/se2": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.3::IRadio/slot1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.3::IRadio/slot2": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.4::IRadio/em1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.4::IRadio/em2": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.4::IRadio/imsAospSlot1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.4::IRadio/imsAospSlot2": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.4::IRadio/se1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.4::IRadio/se2": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.4::IRadio/slot1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.4::IRadio/slot2": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.5::IRadio/em1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.5::IRadio/em2": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.5::IRadio/imsAospSlot1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.5::IRadio/imsAospSlot2": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.5::IRadio/se1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.5::IRadio/se2": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.5::IRadio/slot1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.5::IRadio/slot2": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.6::IRadio/em1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.6::IRadio/em2": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.6::IRadio/imsAospSlot1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.6::IRadio/imsAospSlot2": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.6::IRadio/se1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.6::IRadio/se2": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.6::IRadio/slot1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.6::IRadio/slot2": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.secure_element@1.0::ISecureElement/SIM1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.secure_element@1.0::ISecureElement/SIM2": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.secure_element@1.1::ISecureElement/SIM1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.secure_element@1.1::ISecureElement/SIM2": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.secure_element@1.2::ISecureElement/SIM1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.secure_element@1.2::ISecureElement/SIM2": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.sensors@2.0::ISensors/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.soundtrigger@2.0::ISoundTriggerHw/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.soundtrigger@2.1::ISoundTriggerHw/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.soundtrigger@2.2::ISoundTriggerHw/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.soundtrigger@2.3::ISoundTriggerHw/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.thermal@1.0::IThermal/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.thermal@2.0::IThermal/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.usb.gadget@1.0::IUsbGadget/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.usb.gadget@1.1::IUsbGadget/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.usb@1.0::IUsb/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.usb@1.1::IUsb/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.usb@1.2::IUsb/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.usb@1.3::IUsb/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.wifi.supplicant@1.0::ISupplicant/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.wifi.supplicant@1.1::ISupplicant/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.wifi.supplicant@1.2::ISupplicant/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.wifi.supplicant@1.3::ISupplicant/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.wifi.supplicant@1.4::ISupplicant/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.wifi@1.0::IWifi/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.wifi@1.1::IWifi/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.wifi@1.2::IWifi/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.wifi@1.3::IWifi/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.wifi@1.4::IWifi/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.wifi@1.5::IWifi/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.allocator@1.0::IAllocator/ashmem": no information for PID 933, are you root?
+Warning: Skipping "android.hidl.base@1.0::IBase/AgpsDebugInterface": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/AgpsInterface": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/SIM1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/SIM2": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/ashmem": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/clearkey": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/default1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/em1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/em2": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/imsAospSlot1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/imsAospSlot2": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/imsSlot1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/imsSlot2": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/internal/0": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/mtkAssist1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/mtkAssist2": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/mtkCap1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/mtkCap2": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/mtkEm1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/mtkEm2": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/mtkRcs1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/mtkRcs2": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/mtkRsu1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/mtkRsu2": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/mtkSe1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/mtkSe2": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/mtkSlot1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/mtkSlot2": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/mtkSmartRatSwitch1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/mtkSmartRatSwitch2": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/mtk_agps2framework": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/mtk_agpsd2debugService": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/mtk_debugService2agpsd": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/mtk_debugService2mnld": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/mtk_framework2agps": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/mtk_lbs_log_v2s": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/mtk_lppe_socket_agps": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/mtk_lppe_socket_bt": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/mtk_lppe_socket_ipaddr": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/mtk_lppe_socket_lbs": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/mtk_lppe_socket_network": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/mtk_lppe_socket_sensor": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/mtk_lppe_socket_wlan": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/mtk_meta2mnld": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/mtk_mnld2debugService": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/mtk_mnld2mtklogger": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/mtk_mnld2nlputils": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/mtk_mtklogger2mnld": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/se1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/se2": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/slot1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/slot2": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/software": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/widevine": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.manager@1.0::IServiceManager/default": no information for PID 512, are you root?
+Warning: Skipping "android.system.net.netd@1.0::INetd/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.system.net.netd@1.1::INetd/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.system.suspend@1.0::ISystemSuspend/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.system.wifi.keystore@1.0::IKeystore/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.dolby.hardware.dms@2.0::IDms/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.apuware.apusys@2.0::INeuronApusys/default": no information for PID 1274, are you root?
+Warning: Skipping "vendor.mediatek.hardware.bluetooth.audio@2.1::IBluetoothAudioProvidersFactory/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.bluetooth.audio@2.2::IBluetoothAudioProvidersFactory/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.camera.atms@1.0::IATMs/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.camera.bgservice@1.0::IBGService/internal/0": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.camera.bgservice@1.1::IBGService/internal/0": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.camera.isphal@1.0::IISPModule/internal/0": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.camera.isphal@1.1::IISPModule/internal/0": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.composer_ext@1.0::IComposerExt/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.lbs@1.0::ILbs/AgpsDebugInterface": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.lbs@1.0::ILbs/AgpsInterface": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.lbs@1.0::ILbs/mtk_agps2framework": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.lbs@1.0::ILbs/mtk_agpsd2debugService": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.lbs@1.0::ILbs/mtk_debugService2agpsd": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.lbs@1.0::ILbs/mtk_debugService2mnld": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.lbs@1.0::ILbs/mtk_framework2agps": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.lbs@1.0::ILbs/mtk_lbs_log_v2s": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.lbs@1.0::ILbs/mtk_lppe_socket_agps": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.lbs@1.0::ILbs/mtk_lppe_socket_bt": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.lbs@1.0::ILbs/mtk_lppe_socket_ipaddr": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.lbs@1.0::ILbs/mtk_lppe_socket_lbs": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.lbs@1.0::ILbs/mtk_lppe_socket_network": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.lbs@1.0::ILbs/mtk_lppe_socket_sensor": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.lbs@1.0::ILbs/mtk_lppe_socket_wlan": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.lbs@1.0::ILbs/mtk_meta2mnld": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.lbs@1.0::ILbs/mtk_mnld2debugService": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.lbs@1.0::ILbs/mtk_mnld2mtklogger": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.lbs@1.0::ILbs/mtk_mnld2nlputils": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.lbs@1.0::ILbs/mtk_mtklogger2mnld": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.mtkpower@1.0::IMtkPerf/default": no information for PID 975, are you root?
+Warning: Skipping "vendor.mediatek.hardware.mtkradioex@3.0::IMtkRadioEx/imsSlot1": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.mtkradioex@3.0::IMtkRadioEx/imsSlot2": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.mtkradioex@3.0::IMtkRadioEx/mtkAssist1": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.mtkradioex@3.0::IMtkRadioEx/mtkAssist2": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.mtkradioex@3.0::IMtkRadioEx/mtkCap1": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.mtkradioex@3.0::IMtkRadioEx/mtkCap2": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.mtkradioex@3.0::IMtkRadioEx/mtkEm1": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.mtkradioex@3.0::IMtkRadioEx/mtkEm2": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.mtkradioex@3.0::IMtkRadioEx/mtkRcs1": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.mtkradioex@3.0::IMtkRadioEx/mtkRcs2": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.mtkradioex@3.0::IMtkRadioEx/mtkRsu1": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.mtkradioex@3.0::IMtkRadioEx/mtkRsu2": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.mtkradioex@3.0::IMtkRadioEx/mtkSe1": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.mtkradioex@3.0::IMtkRadioEx/mtkSe2": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.mtkradioex@3.0::IMtkRadioEx/mtkSlot1": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.mtkradioex@3.0::IMtkRadioEx/mtkSlot2": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.mtkradioex@3.0::IMtkRadioEx/mtkSmartRatSwitch1": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.mtkradioex@3.0::IMtkRadioEx/mtkSmartRatSwitch2": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.netdagent@1.0::INetdagent/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.nvram@1.0::INvram/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.nvram@1.1::INvram/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.nwk_opt@1.0::INwkOpt/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.pq@2.0::IPictureQuality/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.pq@2.10::IPictureQuality/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.pq@2.11::IPictureQuality/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.pq@2.12::IPictureQuality/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.pq@2.13::IPictureQuality/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.pq@2.14::IPictureQuality/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.pq@2.15::IPictureQuality/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.pq@2.1::IPictureQuality/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.pq@2.2::IPictureQuality/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.pq@2.3::IPictureQuality/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.pq@2.4::IPictureQuality/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.pq@2.5::IPictureQuality/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.pq@2.6::IPictureQuality/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.pq@2.7::IPictureQuality/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.pq@2.8::IPictureQuality/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.pq@2.9::IPictureQuality/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.videotelephony@1.0::IVideoTelephony/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.nxp.nxpnfc@2.0::INxpNfc/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.xiaomi.hardware.cld@1.0::ICld/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.xiaomi.hardware.displayfeature@1.0::IDisplayFeature/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.xiaomi.hardware.fingerprintextension@1.0::IXiaomiFingerprint/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.xiaomi.hardware.fx.tunnel@1.0::IMiFxTunnel/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.xiaomi.hardware.mfidoca@1.0::IFidoService/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.xiaomi.hardware.micharge@1.0::IMiCharge/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.xiaomi.hardware.mimd@1.0::IMimd/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.xiaomi.hardware.misys@1.0::IMiSys/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.xiaomi.hardware.misys@2.0::IMiSys/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.xiaomi.hardware.misys@3.0::IMiSys/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.xiaomi.hardware.misys@4.0::IMiSys/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.xiaomi.hardware.mlipay@1.0::IMlipayService/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.xiaomi.hardware.mlipay@1.1::IMlipayService/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.xiaomi.hardware.mtdservice@1.0::IMTService/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.xiaomi.hardware.mtdservice@1.1::IMTService/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.xiaomi.hardware.mtdservice@1.2::IMTService/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.xiaomi.hardware.mtdservice@1.3::IMTService/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.xiaomi.hardware.otrpagent@2.0::IOTrPAgent/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.xiaomi.hardware.soterservice@1.0::ISoter/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.xiaomi.hardware.tidaservice@1.0::ITidaService/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.xiaomi.hardware.tidaservice@1.1::ITidaService/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.xiaomi.hardware.tidaservice@1.2::ITidaService/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.xiaomi.hardware.vsimapp@1.0::IVSIMService/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.xiaomi.hidl.minet@1.0::IMiNetService/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.xiaomi.hidl.miwill@1.0::IMiwillService/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.xiaomi.hw.touchfeature@1.0::ITouchFeature/default": cannot be fetched from service manager (null)
+| All HIDL binderized services (registered with hwservicemanager)
+VINTF R Interface                                                                             Thread Use Server Clients
+FM    ? android.frameworks.cameraservice.service@2.0::ICameraService/default                  N/A        N/A    
+FM    ? android.frameworks.cameraservice.service@2.1::ICameraService/default                  N/A        N/A    
+FM    ? android.frameworks.cameraservice.service@2.2::ICameraService/default                  N/A        N/A    
+FM    ? android.frameworks.displayservice@1.0::IDisplayService/default                        N/A        N/A    
+FM    ? android.frameworks.sensorservice@1.0::ISensorManager/default                          N/A        N/A    
+DM,FC ? android.hardware.audio.effect@7.0::IEffectsFactory/default                            N/A        N/A    
+DM,FC ? android.hardware.audio@7.0::IDevicesFactory/default                                   N/A        N/A    
+DM,FC ? android.hardware.biometrics.face@1.0::IBiometricsFace/default                         N/A        N/A    
+DM,FC ? android.hardware.biometrics.fingerprint@2.1::IBiometricsFingerprint/default           N/A        N/A    
+DM,FC ? android.hardware.bluetooth.audio@2.0::IBluetoothAudioProvidersFactory/default         N/A        N/A    
+DM,FC ? android.hardware.bluetooth.audio@2.1::IBluetoothAudioProvidersFactory/default         N/A        N/A    
+DM,FC ? android.hardware.bluetooth@1.0::IBluetoothHci/default                                 N/A        N/A    
+DM,FC ? android.hardware.bluetooth@1.1::IBluetoothHci/default                                 N/A        N/A    
+DM    ? android.hardware.boot@1.0::IBootControl/default                                       N/A        N/A    
+DM    ? android.hardware.boot@1.1::IBootControl/default                                       N/A        N/A    
+DM,FC ? android.hardware.boot@1.2::IBootControl/default                                       N/A        N/A    
+DM,FC ? android.hardware.camera.provider@2.4::ICameraProvider/internal/0                      N/A        N/A    
+DM,FC ? android.hardware.camera.provider@2.5::ICameraProvider/internal/0                      N/A        N/A    
+DM,FC ? android.hardware.camera.provider@2.6::ICameraProvider/internal/0                      N/A        N/A    
+DM    Y android.hardware.drm@1.0::ICryptoFactory/clearkey                                     N/A        936    
+DM    Y android.hardware.drm@1.0::ICryptoFactory/widevine                                     N/A        937    
+DM    Y android.hardware.drm@1.0::IDrmFactory/clearkey                                        N/A        936    
+DM    Y android.hardware.drm@1.0::IDrmFactory/widevine                                        N/A        937    
+DM    Y android.hardware.drm@1.1::ICryptoFactory/clearkey                                     N/A        936    
+DM    Y android.hardware.drm@1.1::ICryptoFactory/widevine                                     N/A        937    
+DM    Y android.hardware.drm@1.1::IDrmFactory/clearkey                                        N/A        936    
+DM    Y android.hardware.drm@1.1::IDrmFactory/widevine                                        N/A        937    
+DM    Y android.hardware.drm@1.2::ICryptoFactory/clearkey                                     N/A        936    
+DM    Y android.hardware.drm@1.2::ICryptoFactory/widevine                                     N/A        937    
+DM    Y android.hardware.drm@1.2::IDrmFactory/clearkey                                        N/A        936    
+DM    Y android.hardware.drm@1.2::IDrmFactory/widevine                                        N/A        937    
+DM,FC Y android.hardware.drm@1.3::ICryptoFactory/clearkey                                     N/A        936    
+DM,FC Y android.hardware.drm@1.3::ICryptoFactory/widevine                                     N/A        937    
+DM,FC Y android.hardware.drm@1.3::IDrmFactory/clearkey                                        N/A        936    
+DM,FC Y android.hardware.drm@1.3::IDrmFactory/widevine                                        N/A        937    
+DM,FC Y android.hardware.drm@1.4::ICryptoFactory/clearkey                                     N/A        936    
+DM,FC Y android.hardware.drm@1.4::ICryptoFactory/widevine                                     N/A        937    
+DM,FC Y android.hardware.drm@1.4::IDrmFactory/clearkey                                        N/A        936    
+DM,FC Y android.hardware.drm@1.4::IDrmFactory/widevine                                        N/A        937    
+DM,FC ? android.hardware.gatekeeper@1.0::IGatekeeper/default                                  N/A        N/A    
+DM    ? android.hardware.gnss@1.0::IGnss/default                                              N/A        N/A    
+DM    ? android.hardware.gnss@1.1::IGnss/default                                              N/A        N/A    
+DM,FC ? android.hardware.gnss@2.0::IGnss/default                                              N/A        N/A    
+DM,FC ? android.hardware.gnss@2.1::IGnss/default                                              N/A        N/A    
+DM,FC Y android.hardware.graphics.allocator@4.0::IAllocator/default                           N/A        945    
+DM,FC ? android.hardware.graphics.composer@2.1::IComposer/default                             N/A        N/A    
+DM,FC ? android.hardware.graphics.composer@2.2::IComposer/default                             N/A        N/A    
+DM,FC ? android.hardware.graphics.composer@2.3::IComposer/default                             N/A        N/A    
+DM    ? android.hardware.health@2.0::IHealth/default                                          N/A        N/A    
+DM,FC ? android.hardware.health@2.1::IHealth/default                                          N/A        N/A    
+DM,FC ? android.hardware.ir@1.0::IConsumerIr/default                                          N/A        N/A    
+DM,FC Y android.hardware.media.c2@1.0::IComponentStore/default                                N/A        952    
+DM,FC Y android.hardware.media.c2@1.0::IComponentStore/default1                               N/A        974    
+FM,FC Y android.hardware.media.c2@1.0::IComponentStore/software                               N/A        1467   
+DM,FC Y android.hardware.media.c2@1.1::IComponentStore/default                                N/A        952    
+FM,FC Y android.hardware.media.c2@1.1::IComponentStore/software                               N/A        1467   
+DM,FC Y android.hardware.media.c2@1.2::IComponentStore/default                                N/A        952    
+FM,FC Y android.hardware.media.c2@1.2::IComponentStore/software                               N/A        1467   
+DM,FC Y android.hardware.media.omx@1.0::IOmx/default                                          N/A        1361   
+DM,FC Y android.hardware.media.omx@1.0::IOmxStore/default                                     N/A        1361   
+DM,FC ? android.hardware.nfc@1.0::INfc/default                                                N/A        N/A    
+DM,FC ? android.hardware.nfc@1.1::INfc/default                                                N/A        N/A    
+DM,FC ? android.hardware.nfc@1.2::INfc/default                                                N/A        N/A    
+DM    ? android.hardware.radio.config@1.0::IRadioConfig/default                               N/A        N/A    
+DM,FC ? android.hardware.radio.config@1.1::IRadioConfig/default                               N/A        N/A    
+DM,FC ? android.hardware.radio.config@1.3::IRadioConfig/default                               N/A        N/A    
+DM    ? android.hardware.radio@1.0::IRadio/em1                                                N/A        N/A    
+DM    ? android.hardware.radio@1.0::IRadio/em2                                                N/A        N/A    
+DM    ? android.hardware.radio@1.0::IRadio/imsAospSlot1                                       N/A        N/A    
+DM    ? android.hardware.radio@1.0::IRadio/imsAospSlot2                                       N/A        N/A    
+DM    ? android.hardware.radio@1.0::IRadio/se1                                                N/A        N/A    
+DM    ? android.hardware.radio@1.0::IRadio/se2                                                N/A        N/A    
+DM    ? android.hardware.radio@1.0::IRadio/slot1                                              N/A        N/A    
+DM    ? android.hardware.radio@1.0::IRadio/slot2                                              N/A        N/A    
+DM    ? android.hardware.radio@1.0::ISap/slot1                                                N/A        N/A    
+DM    ? android.hardware.radio@1.0::ISap/slot2                                                N/A        N/A    
+DM    ? android.hardware.radio@1.1::IRadio/em1                                                N/A        N/A    
+DM    ? android.hardware.radio@1.1::IRadio/em2                                                N/A        N/A    
+DM    ? android.hardware.radio@1.1::IRadio/imsAospSlot1                                       N/A        N/A    
+DM    ? android.hardware.radio@1.1::IRadio/imsAospSlot2                                       N/A        N/A    
+DM    ? android.hardware.radio@1.1::IRadio/se1                                                N/A        N/A    
+DM    ? android.hardware.radio@1.1::IRadio/se2                                                N/A        N/A    
+DM    ? android.hardware.radio@1.1::IRadio/slot1                                              N/A        N/A    
+DM    ? android.hardware.radio@1.1::IRadio/slot2                                              N/A        N/A    
+DM    ? android.hardware.radio@1.1::ISap/slot1                                                N/A        N/A    
+DM    ? android.hardware.radio@1.1::ISap/slot2                                                N/A        N/A    
+DM,FC ? android.hardware.radio@1.2::IRadio/em1                                                N/A        N/A    
+DM,FC ? android.hardware.radio@1.2::IRadio/em2                                                N/A        N/A    
+DM,FC ? android.hardware.radio@1.2::IRadio/imsAospSlot1                                       N/A        N/A    
+DM,FC ? android.hardware.radio@1.2::IRadio/imsAospSlot2                                       N/A        N/A    
+DM,FC ? android.hardware.radio@1.2::IRadio/se1                                                N/A        N/A    
+DM,FC ? android.hardware.radio@1.2::IRadio/se2                                                N/A        N/A    
+DM,FC ? android.hardware.radio@1.2::IRadio/slot1                                              N/A        N/A    
+DM,FC ? android.hardware.radio@1.2::IRadio/slot2                                              N/A        N/A    
+DM,FC ? android.hardware.radio@1.2::ISap/slot1                                                N/A        N/A    
+DM,FC ? android.hardware.radio@1.2::ISap/slot2                                                N/A        N/A    
+DM    ? android.hardware.radio@1.3::IRadio/em1                                                N/A        N/A    
+DM    ? android.hardware.radio@1.3::IRadio/em2                                                N/A        N/A    
+DM    ? android.hardware.radio@1.3::IRadio/imsAospSlot1                                       N/A        N/A    
+DM    ? android.hardware.radio@1.3::IRadio/imsAospSlot2                                       N/A        N/A    
+DM    ? android.hardware.radio@1.3::IRadio/se1                                                N/A        N/A    
+DM    ? android.hardware.radio@1.3::IRadio/se2                                                N/A        N/A    
+DM    ? android.hardware.radio@1.3::IRadio/slot1                                              N/A        N/A    
+DM    ? android.hardware.radio@1.3::IRadio/slot2                                              N/A        N/A    
+DM    ? android.hardware.radio@1.4::IRadio/em1                                                N/A        N/A    
+DM    ? android.hardware.radio@1.4::IRadio/em2                                                N/A        N/A    
+DM    ? android.hardware.radio@1.4::IRadio/imsAospSlot1                                       N/A        N/A    
+DM    ? android.hardware.radio@1.4::IRadio/imsAospSlot2                                       N/A        N/A    
+DM    ? android.hardware.radio@1.4::IRadio/se1                                                N/A        N/A    
+DM    ? android.hardware.radio@1.4::IRadio/se2                                                N/A        N/A    
+DM    ? android.hardware.radio@1.4::IRadio/slot1                                              N/A        N/A    
+DM    ? android.hardware.radio@1.4::IRadio/slot2                                              N/A        N/A    
+DM    ? android.hardware.radio@1.5::IRadio/em1                                                N/A        N/A    
+DM    ? android.hardware.radio@1.5::IRadio/em2                                                N/A        N/A    
+DM    ? android.hardware.radio@1.5::IRadio/imsAospSlot1                                       N/A        N/A    
+DM    ? android.hardware.radio@1.5::IRadio/imsAospSlot2                                       N/A        N/A    
+DM    ? android.hardware.radio@1.5::IRadio/se1                                                N/A        N/A    
+DM    ? android.hardware.radio@1.5::IRadio/se2                                                N/A        N/A    
+DM    ? android.hardware.radio@1.5::IRadio/slot1                                              N/A        N/A    
+DM    ? android.hardware.radio@1.5::IRadio/slot2                                              N/A        N/A    
+DM,FC ? android.hardware.radio@1.6::IRadio/em1                                                N/A        N/A    
+DM,FC ? android.hardware.radio@1.6::IRadio/em2                                                N/A        N/A    
+DM,FC ? android.hardware.radio@1.6::IRadio/imsAospSlot1                                       N/A        N/A    
+DM,FC ? android.hardware.radio@1.6::IRadio/imsAospSlot2                                       N/A        N/A    
+DM,FC ? android.hardware.radio@1.6::IRadio/se1                                                N/A        N/A    
+DM,FC ? android.hardware.radio@1.6::IRadio/se2                                                N/A        N/A    
+DM,FC ? android.hardware.radio@1.6::IRadio/slot1                                              N/A        N/A    
+DM,FC ? android.hardware.radio@1.6::IRadio/slot2                                              N/A        N/A    
+DM,FC ? android.hardware.secure_element@1.0::ISecureElement/SIM1                              N/A        N/A    
+DM,FC ? android.hardware.secure_element@1.0::ISecureElement/SIM2                              N/A        N/A    
+DM,FC ? android.hardware.secure_element@1.1::ISecureElement/SIM1                              N/A        N/A    
+DM,FC ? android.hardware.secure_element@1.1::ISecureElement/SIM2                              N/A        N/A    
+DM,FC ? android.hardware.secure_element@1.2::ISecureElement/SIM1                              N/A        N/A    
+DM,FC ? android.hardware.secure_element@1.2::ISecureElement/SIM2                              N/A        N/A    
+DM,FC ? android.hardware.sensors@2.0::ISensors/default                                        N/A        N/A    
+DM    ? android.hardware.soundtrigger@2.0::ISoundTriggerHw/default                            N/A        N/A    
+DM    ? android.hardware.soundtrigger@2.1::ISoundTriggerHw/default                            N/A        N/A    
+DM    ? android.hardware.soundtrigger@2.2::ISoundTriggerHw/default                            N/A        N/A    
+DM,FC ? android.hardware.soundtrigger@2.3::ISoundTriggerHw/default                            N/A        N/A    
+DM    ? android.hardware.thermal@1.0::IThermal/default                                        N/A        N/A    
+DM,FC ? android.hardware.thermal@2.0::IThermal/default                                        N/A        N/A    
+DM,FC ? android.hardware.usb.gadget@1.0::IUsbGadget/default                                   N/A        N/A    
+DM,FC ? android.hardware.usb.gadget@1.1::IUsbGadget/default                                   N/A        N/A    
+DM,FC ? android.hardware.usb@1.0::IUsb/default                                                N/A        N/A    
+DM,FC ? android.hardware.usb@1.1::IUsb/default                                                N/A        N/A    
+DM,FC ? android.hardware.usb@1.2::IUsb/default                                                N/A        N/A    
+DM,FC ? android.hardware.usb@1.3::IUsb/default                                                N/A        N/A    
+DM    ? android.hardware.wifi.supplicant@1.0::ISupplicant/default                             N/A        N/A    
+DM    ? android.hardware.wifi.supplicant@1.1::ISupplicant/default                             N/A        N/A    
+DM,FC ? android.hardware.wifi.supplicant@1.2::ISupplicant/default                             N/A        N/A    
+DM,FC ? android.hardware.wifi.supplicant@1.3::ISupplicant/default                             N/A        N/A    
+DM,FC ? android.hardware.wifi.supplicant@1.4::ISupplicant/default                             N/A        N/A    
+DM    ? android.hardware.wifi@1.0::IWifi/default                                              N/A        N/A    
+DM    ? android.hardware.wifi@1.1::IWifi/default                                              N/A        N/A    
+DM    ? android.hardware.wifi@1.2::IWifi/default                                              N/A        N/A    
+DM,FC ? android.hardware.wifi@1.3::IWifi/default                                              N/A        N/A    
+DM,FC ? android.hardware.wifi@1.4::IWifi/default                                              N/A        N/A    
+DM,FC ? android.hardware.wifi@1.5::IWifi/default                                              N/A        N/A    
+FM    Y android.hidl.allocator@1.0::IAllocator/ashmem                                         N/A        933    
+X     ? android.hidl.base@1.0::IBase/AgpsDebugInterface                                       N/A        N/A    
+X     ? android.hidl.base@1.0::IBase/AgpsInterface                                            N/A        N/A    
+X     ? android.hidl.base@1.0::IBase/SIM1                                                     N/A        N/A    
+X     ? android.hidl.base@1.0::IBase/SIM2                                                     N/A        N/A    
+X     ? android.hidl.base@1.0::IBase/ashmem                                                   N/A        N/A    
+X     ? android.hidl.base@1.0::IBase/clearkey                                                 N/A        N/A    
+X     ? android.hidl.base@1.0::IBase/default                                                  N/A        N/A    
+X     ? android.hidl.base@1.0::IBase/default1                                                 N/A        N/A    
+X     ? android.hidl.base@1.0::IBase/em1                                                      N/A        N/A    
+X     ? android.hidl.base@1.0::IBase/em2                                                      N/A        N/A    
+X     ? android.hidl.base@1.0::IBase/imsAospSlot1                                             N/A        N/A    
+X     ? android.hidl.base@1.0::IBase/imsAospSlot2                                             N/A        N/A    
+X     ? android.hidl.base@1.0::IBase/imsSlot1                                                 N/A        N/A    
+X     ? android.hidl.base@1.0::IBase/imsSlot2                                                 N/A        N/A    
+X     ? android.hidl.base@1.0::IBase/internal/0                                               N/A        N/A    
+X     ? android.hidl.base@1.0::IBase/mtkAssist1                                               N/A        N/A    
+X     ? android.hidl.base@1.0::IBase/mtkAssist2                                               N/A        N/A    
+X     ? android.hidl.base@1.0::IBase/mtkCap1                                                  N/A        N/A    
+X     ? android.hidl.base@1.0::IBase/mtkCap2                                                  N/A        N/A    
+X     ? android.hidl.base@1.0::IBase/mtkEm1                                                   N/A        N/A    
+X     ? android.hidl.base@1.0::IBase/mtkEm2                                                   N/A        N/A    
+X     ? android.hidl.base@1.0::IBase/mtkRcs1                                                  N/A        N/A    
+X     ? android.hidl.base@1.0::IBase/mtkRcs2                                                  N/A        N/A    
+X     ? android.hidl.base@1.0::IBase/mtkRsu1                                                  N/A        N/A    
+X     ? android.hidl.base@1.0::IBase/mtkRsu2                                                  N/A        N/A    
+X     ? android.hidl.base@1.0::IBase/mtkSe1                                                   N/A        N/A    
+X     ? android.hidl.base@1.0::IBase/mtkSe2                                                   N/A        N/A    
+X     ? android.hidl.base@1.0::IBase/mtkSlot1                                                 N/A        N/A    
+X     ? android.hidl.base@1.0::IBase/mtkSlot2                                                 N/A        N/A    
+X     ? android.hidl.base@1.0::IBase/mtkSmartRatSwitch1                                       N/A        N/A    
+X     ? android.hidl.base@1.0::IBase/mtkSmartRatSwitch2                                       N/A        N/A    
+X     ? android.hidl.base@1.0::IBase/mtk_agps2framework                                       N/A        N/A    
+X     ? android.hidl.base@1.0::IBase/mtk_agpsd2debugService                                   N/A        N/A    
+X     ? android.hidl.base@1.0::IBase/mtk_debugService2agpsd                                   N/A        N/A    
+X     ? android.hidl.base@1.0::IBase/mtk_debugService2mnld                                    N/A        N/A    
+X     ? android.hidl.base@1.0::IBase/mtk_framework2agps                                       N/A        N/A    
+X     ? android.hidl.base@1.0::IBase/mtk_lbs_log_v2s                                          N/A        N/A    
+X     ? android.hidl.base@1.0::IBase/mtk_lppe_socket_agps                                     N/A        N/A    
+X     ? android.hidl.base@1.0::IBase/mtk_lppe_socket_bt                                       N/A        N/A    
+X     ? android.hidl.base@1.0::IBase/mtk_lppe_socket_ipaddr                                   N/A        N/A    
+X     ? android.hidl.base@1.0::IBase/mtk_lppe_socket_lbs                                      N/A        N/A    
+X     ? android.hidl.base@1.0::IBase/mtk_lppe_socket_network                                  N/A        N/A    
+X     ? android.hidl.base@1.0::IBase/mtk_lppe_socket_sensor                                   N/A        N/A    
+X     ? android.hidl.base@1.0::IBase/mtk_lppe_socket_wlan                                     N/A        N/A    
+X     ? android.hidl.base@1.0::IBase/mtk_meta2mnld                                            N/A        N/A    
+X     ? android.hidl.base@1.0::IBase/mtk_mnld2debugService                                    N/A        N/A    
+X     ? android.hidl.base@1.0::IBase/mtk_mnld2mtklogger                                       N/A        N/A    
+X     ? android.hidl.base@1.0::IBase/mtk_mnld2nlputils                                        N/A        N/A    
+X     ? android.hidl.base@1.0::IBase/mtk_mtklogger2mnld                                       N/A        N/A    
+X     ? android.hidl.base@1.0::IBase/se1                                                      N/A        N/A    
+X     ? android.hidl.base@1.0::IBase/se2                                                      N/A        N/A    
+X     ? android.hidl.base@1.0::IBase/slot1                                                    N/A        N/A    
+X     ? android.hidl.base@1.0::IBase/slot2                                                    N/A        N/A    
+X     ? android.hidl.base@1.0::IBase/software                                                 N/A        N/A    
+X     ? android.hidl.base@1.0::IBase/widevine                                                 N/A        N/A    
+FM    Y android.hidl.manager@1.0::IServiceManager/default                                     N/A        512    
+FM    Y android.hidl.manager@1.1::IServiceManager/default                                     N/A        512    
+FM    Y android.hidl.manager@1.2::IServiceManager/default                                     N/A        512    
+FM    Y android.hidl.token@1.0::ITokenManager/default                                         N/A        512    
+FM    ? android.system.net.netd@1.0::INetd/default                                            N/A        N/A    
+FM    ? android.system.net.netd@1.1::INetd/default                                            N/A        N/A    
+FM    ? android.system.suspend@1.0::ISystemSuspend/default                                    N/A        N/A    
+FM    ? android.system.wifi.keystore@1.0::IKeystore/default                                   N/A        N/A    
+DM,FC ? vendor.dolby.hardware.dms@2.0::IDms/default                                           N/A        N/A    
+DM,FC Y vendor.mediatek.hardware.apuware.apusys@2.0::INeuronApusys/default                    N/A        1274   
+DM,FC Y vendor.mediatek.hardware.apuware.apusys@2.1::INeuronApusys/default                    N/A        1274   
+DM,FC Y vendor.mediatek.hardware.apuware.hmp@1.0::IApuwareHmp/default                         N/A        1274   
+DM,FC Y vendor.mediatek.hardware.apuware.utils@2.0::IApuwareUtils/default                     N/A        1274   
+DM,FC ? vendor.mediatek.hardware.bluetooth.audio@2.1::IBluetoothAudioProvidersFactory/default N/A        N/A    
+DM,FC ? vendor.mediatek.hardware.bluetooth.audio@2.2::IBluetoothAudioProvidersFactory/default N/A        N/A    
+DM,FC ? vendor.mediatek.hardware.camera.atms@1.0::IATMs/default                               N/A        N/A    
+DM    ? vendor.mediatek.hardware.camera.bgservice@1.0::IBGService/internal/0                  N/A        N/A    
+DM,FC ? vendor.mediatek.hardware.camera.bgservice@1.1::IBGService/internal/0                  N/A        N/A    
+DM    ? vendor.mediatek.hardware.camera.isphal@1.0::IISPModule/internal/0                     N/A        N/A    
+DM,FC ? vendor.mediatek.hardware.camera.isphal@1.1::IISPModule/internal/0                     N/A        N/A    
+DM,FC ? vendor.mediatek.hardware.composer_ext@1.0::IComposerExt/default                       N/A        N/A    
+DM,FC ? vendor.mediatek.hardware.lbs@1.0::ILbs/AgpsDebugInterface                             N/A        N/A    
+DM,FC ? vendor.mediatek.hardware.lbs@1.0::ILbs/AgpsInterface                                  N/A        N/A    
+DM,FC ? vendor.mediatek.hardware.lbs@1.0::ILbs/mtk_agps2framework                             N/A        N/A    
+DM,FC ? vendor.mediatek.hardware.lbs@1.0::ILbs/mtk_agpsd2debugService                         N/A        N/A    
+DM,FC ? vendor.mediatek.hardware.lbs@1.0::ILbs/mtk_debugService2agpsd                         N/A        N/A    
+DM,FC ? vendor.mediatek.hardware.lbs@1.0::ILbs/mtk_debugService2mnld                          N/A        N/A    
+DM,FC ? vendor.mediatek.hardware.lbs@1.0::ILbs/mtk_framework2agps                             N/A        N/A    
+DM,FC ? vendor.mediatek.hardware.lbs@1.0::ILbs/mtk_lbs_log_v2s                                N/A        N/A    
+DM,FC ? vendor.mediatek.hardware.lbs@1.0::ILbs/mtk_lppe_socket_agps                           N/A        N/A    
+DM,FC ? vendor.mediatek.hardware.lbs@1.0::ILbs/mtk_lppe_socket_bt                             N/A        N/A    
+DM,FC ? vendor.mediatek.hardware.lbs@1.0::ILbs/mtk_lppe_socket_ipaddr                         N/A        N/A    
+DM,FC ? vendor.mediatek.hardware.lbs@1.0::ILbs/mtk_lppe_socket_lbs                            N/A        N/A    
+DM,FC ? vendor.mediatek.hardware.lbs@1.0::ILbs/mtk_lppe_socket_network                        N/A        N/A    
+DM,FC ? vendor.mediatek.hardware.lbs@1.0::ILbs/mtk_lppe_socket_sensor                         N/A        N/A    
+DM,FC ? vendor.mediatek.hardware.lbs@1.0::ILbs/mtk_lppe_socket_wlan                           N/A        N/A    
+DM,FC ? vendor.mediatek.hardware.lbs@1.0::ILbs/mtk_meta2mnld                                  N/A        N/A    
+DM,FC ? vendor.mediatek.hardware.lbs@1.0::ILbs/mtk_mnld2debugService                          N/A        N/A    
+DM,FC ? vendor.mediatek.hardware.lbs@1.0::ILbs/mtk_mnld2mtklogger                             N/A        N/A    
+DM,FC ? vendor.mediatek.hardware.lbs@1.0::ILbs/mtk_mnld2nlputils                              N/A        N/A    
+DM,FC ? vendor.mediatek.hardware.lbs@1.0::ILbs/mtk_mtklogger2mnld                             N/A        N/A    
+DM    Y vendor.mediatek.hardware.mtkpower@1.0::IMtkPerf/default                               N/A        975    
+DM    Y vendor.mediatek.hardware.mtkpower@1.0::IMtkPower/default                              N/A        975    
+DM    Y vendor.mediatek.hardware.mtkpower@1.1::IMtkPerf/default                               N/A        975    
+DM    Y vendor.mediatek.hardware.mtkpower@1.1::IMtkPower/default                              N/A        975    
+DM,FC Y vendor.mediatek.hardware.mtkpower@1.2::IMtkPerf/default                               N/A        975    
+DM,FC Y vendor.mediatek.hardware.mtkpower@1.2::IMtkPower/default                              N/A        975    
+DM,FC ? vendor.mediatek.hardware.mtkradioex@3.0::IMtkRadioEx/imsSlot1                         N/A        N/A    
+DM,FC ? vendor.mediatek.hardware.mtkradioex@3.0::IMtkRadioEx/imsSlot2                         N/A        N/A    
+DM,FC ? vendor.mediatek.hardware.mtkradioex@3.0::IMtkRadioEx/mtkAssist1                       N/A        N/A    
+DM,FC ? vendor.mediatek.hardware.mtkradioex@3.0::IMtkRadioEx/mtkAssist2                       N/A        N/A    
+DM,FC ? vendor.mediatek.hardware.mtkradioex@3.0::IMtkRadioEx/mtkCap1                          N/A        N/A    
+DM,FC ? vendor.mediatek.hardware.mtkradioex@3.0::IMtkRadioEx/mtkCap2                          N/A        N/A    
+DM,FC ? vendor.mediatek.hardware.mtkradioex@3.0::IMtkRadioEx/mtkEm1                           N/A        N/A    
+DM,FC ? vendor.mediatek.hardware.mtkradioex@3.0::IMtkRadioEx/mtkEm2                           N/A        N/A    
+DM,FC ? vendor.mediatek.hardware.mtkradioex@3.0::IMtkRadioEx/mtkRcs1                          N/A        N/A    
+DM,FC ? vendor.mediatek.hardware.mtkradioex@3.0::IMtkRadioEx/mtkRcs2                          N/A        N/A    
+DM,FC ? vendor.mediatek.hardware.mtkradioex@3.0::IMtkRadioEx/mtkRsu1                          N/A        N/A    
+DM,FC ? vendor.mediatek.hardware.mtkradioex@3.0::IMtkRadioEx/mtkRsu2                          N/A        N/A    
+DM,FC ? vendor.mediatek.hardware.mtkradioex@3.0::IMtkRadioEx/mtkSe1                           N/A        N/A    
+DM,FC ? vendor.mediatek.hardware.mtkradioex@3.0::IMtkRadioEx/mtkSe2                           N/A        N/A    
+DM,FC ? vendor.mediatek.hardware.mtkradioex@3.0::IMtkRadioEx/mtkSlot1                         N/A        N/A    
+DM,FC ? vendor.mediatek.hardware.mtkradioex@3.0::IMtkRadioEx/mtkSlot2                         N/A        N/A    
+DM,FC ? vendor.mediatek.hardware.mtkradioex@3.0::IMtkRadioEx/mtkSmartRatSwitch1               N/A        N/A    
+DM,FC ? vendor.mediatek.hardware.mtkradioex@3.0::IMtkRadioEx/mtkSmartRatSwitch2               N/A        N/A    
+DM,FC ? vendor.mediatek.hardware.netdagent@1.0::INetdagent/default                            N/A        N/A    
+DM    ? vendor.mediatek.hardware.nvram@1.0::INvram/default                                    N/A        N/A    
+DM,FC ? vendor.mediatek.hardware.nvram@1.1::INvram/default                                    N/A        N/A    
+DM,FC ? vendor.mediatek.hardware.nwk_opt@1.0::INwkOpt/default                                 N/A        N/A    
+DM    ? vendor.mediatek.hardware.pq@2.0::IPictureQuality/default                              N/A        N/A    
+DM,FC ? vendor.mediatek.hardware.pq@2.10::IPictureQuality/default                             N/A        N/A    
+DM,FC ? vendor.mediatek.hardware.pq@2.11::IPictureQuality/default                             N/A        N/A    
+DM,FC ? vendor.mediatek.hardware.pq@2.12::IPictureQuality/default                             N/A        N/A    
+DM,FC ? vendor.mediatek.hardware.pq@2.13::IPictureQuality/default                             N/A        N/A    
+DM,FC ? vendor.mediatek.hardware.pq@2.14::IPictureQuality/default                             N/A        N/A    
+DM,FC ? vendor.mediatek.hardware.pq@2.15::IPictureQuality/default                             N/A        N/A    
+DM    ? vendor.mediatek.hardware.pq@2.1::IPictureQuality/default                              N/A        N/A    
+DM    ? vendor.mediatek.hardware.pq@2.2::IPictureQuality/default                              N/A        N/A    
+DM,FC ? vendor.mediatek.hardware.pq@2.3::IPictureQuality/default                              N/A        N/A    
+DM,FC ? vendor.mediatek.hardware.pq@2.4::IPictureQuality/default                              N/A        N/A    
+DM,FC ? vendor.mediatek.hardware.pq@2.5::IPictureQuality/default                              N/A        N/A    
+DM,FC ? vendor.mediatek.hardware.pq@2.6::IPictureQuality/default                              N/A        N/A    
+DM,FC ? vendor.mediatek.hardware.pq@2.7::IPictureQuality/default                              N/A        N/A    
+DM,FC ? vendor.mediatek.hardware.pq@2.8::IPictureQuality/default                              N/A        N/A    
+DM,FC ? vendor.mediatek.hardware.pq@2.9::IPictureQuality/default                              N/A        N/A    
+DM,FC ? vendor.mediatek.hardware.videotelephony@1.0::IVideoTelephony/default                  N/A        N/A    
+DM,FC ? vendor.nxp.nxpnfc@2.0::INxpNfc/default                                                N/A        N/A    
+DM,FC ? vendor.xiaomi.hardware.cld@1.0::ICld/default                                          N/A        N/A    
+DM,FC ? vendor.xiaomi.hardware.displayfeature@1.0::IDisplayFeature/default                    N/A        N/A    
+DM,FC ? vendor.xiaomi.hardware.fingerprintextension@1.0::IXiaomiFingerprint/default           N/A        N/A    
+DM,FC ? vendor.xiaomi.hardware.fx.tunnel@1.0::IMiFxTunnel/default                             N/A        N/A    
+DM,FC ? vendor.xiaomi.hardware.mfidoca@1.0::IFidoService/default                              N/A        N/A    
+DM,FC ? vendor.xiaomi.hardware.micharge@1.0::IMiCharge/default                                N/A        N/A    
+DM,FC ? vendor.xiaomi.hardware.mimd@1.0::IMimd/default                                        N/A        N/A    
+DM,FC ? vendor.xiaomi.hardware.misys@1.0::IMiSys/default                                      N/A        N/A    
+DM,FC ? vendor.xiaomi.hardware.misys@2.0::IMiSys/default                                      N/A        N/A    
+DM,FC ? vendor.xiaomi.hardware.misys@3.0::IMiSys/default                                      N/A        N/A    
+DM,FC ? vendor.xiaomi.hardware.misys@4.0::IMiSys/default                                      N/A        N/A    
+DM,FC ? vendor.xiaomi.hardware.mlipay@1.0::IMlipayService/default                             N/A        N/A    
+DM,FC ? vendor.xiaomi.hardware.mlipay@1.1::IMlipayService/default                             N/A        N/A    
+DM    ? vendor.xiaomi.hardware.mtdservice@1.0::IMTService/default                             N/A        N/A    
+DM    ? vendor.xiaomi.hardware.mtdservice@1.1::IMTService/default                             N/A        N/A    
+DM    ? vendor.xiaomi.hardware.mtdservice@1.2::IMTService/default                             N/A        N/A    
+DM    ? vendor.xiaomi.hardware.mtdservice@1.3::IMTService/default                             N/A        N/A    
+DM,FC ? vendor.xiaomi.hardware.otrpagent@2.0::IOTrPAgent/default                              N/A        N/A    
+DM,FC ? vendor.xiaomi.hardware.soterservice@1.0::ISoter/default                               N/A        N/A    
+DM,FC ? vendor.xiaomi.hardware.tidaservice@1.0::ITidaService/default                          N/A        N/A    
+DM,FC ? vendor.xiaomi.hardware.tidaservice@1.1::ITidaService/default                          N/A        N/A    
+DM,FC ? vendor.xiaomi.hardware.tidaservice@1.2::ITidaService/default                          N/A        N/A    
+DM,FC ? vendor.xiaomi.hardware.vsimapp@1.0::IVSIMService/default                              N/A        N/A    
+DM,FC ? vendor.xiaomi.hidl.minet@1.0::IMiNetService/default                                   N/A        N/A    
+DM,FC ? vendor.xiaomi.hidl.miwill@1.0::IMiwillService/default                                 N/A        N/A    
+DM,FC ? vendor.xiaomi.hw.touchfeature@1.0::ITouchFeature/default                              N/A        N/A    
+
+| All HIDL interfaces getService() has ever returned as a passthrough interface;
+| PIDs / processes shown below might be inaccurate because the process
+| might have relinquished the interface or might have died.
+| The Server / Server CMD column can be ignored.
+| The Clients / Clients CMD column shows all process that have ever dlopen'ed 
+| the library and successfully fetched the passthrough implementation.
+VINTF R Interface                                                                             Thread Use Server Clients
+FC    ? android.hardware.audio.effect@6.0::IEffectsFactory/default                            N/A        934    934
+FC    ? android.hardware.audio.effect@7.0::IEffectsFactory/default                            N/A        934    934
+FC    ? android.hardware.audio@6.0::IDevicesFactory/default                                   N/A        934    934
+FC    ? android.hardware.audio@7.0::IDevicesFactory/default                                   N/A        934    934
+FC    ? android.hardware.bluetooth.audio@2.1::IBluetoothAudioProvidersFactory/default         N/A        934    934
+FC    ? android.hardware.bluetooth@1.1::IBluetoothHci/default                                 N/A        935    935
+FC    ? android.hardware.boot@1.2::IBootControl/default                                       N/A        547    547
+FC    ? android.hardware.camera.provider@2.6::ICameraProvider/internal/0                      N/A        1364   1364
+FC    ? android.hardware.gatekeeper@1.0::IGatekeeper/default                                  N/A        941    941
+FC    ? android.hardware.gnss@2.1::IGnss/default                                              N/A        944    944
+DM,FC ? android.hardware.graphics.mapper@4.0::IMapper/default                                 N/A        N/A    946 952 965 1064 1278 1318 1364 1467 1635 2391 2608 2714 2716 2723 2916 2981 3368 3443 3482 3511 4106 4116 4120 4513 4530 4535 4541 4609 4619 4711 4764 4946 5056 5456 5504 5512 6209 6329 6727 6926 7026 7092 7169 7340 7393 7476 7478 7481 7536 7663 7814 7884 7901 7903 8008 8134 8204 8267 8297 8308 8310 8317 8323 8383 8387 8394 8444 8489 8499 8606 8613 8619 8976 9815 10595 10623 11245 11278 11316 11353 11390 11407 11826 12426 12473 12518 13514 14541 14574 14833 14839 15217 16195 16407 16435 16441 16643 16938 18616 18644 18657 19325 20456 20692 21060 21062 21082 21322 21440 21515 21579 21580 21755 21771 21772 21777 22205 22622 22653 22839 22933 22936 22943 22944 23081 23129 23150 23167 23251 23266 23288 23290 23363 23487 23514 23656 23734 23744 23766 23913 23927 23932 23971 23974 24088 24124 24256 24364 24366 24417 24464 24469 24479 24597 24604 24646 24683 24735 24830 24847 24862 24864 25153 25159 25221 25231 25241 25242 25322 25391 25392 25410 25412 25413 25423 26248 26362 26367 26381 26518 26679 26754 26757 26761 26763 26813 26849 26860 26927 26958 26983 27023 27123 27197 27214 27217 27218 27237 27255 27833 28008 28019 28212 28249 28411 28494 28500 28557 28715 28734 28773 28842 29153 29155 29164 29190 29196 29260 29267 29271 29273 29281 29283 29408 29415 29422 29434 29445 29477 29913 31552 31585 31587 31598 32380 32612
+FC    ? android.hardware.health@2.1::IHealth/default                                          N/A        947    947
+FC    ? android.hardware.ir@1.0::IConsumerIr/default                                          N/A        951    951
+DM,FC ? android.hardware.renderscript@1.0::IDevice/default                                    N/A        N/A    2608 2716 4116 7884 8394 11319 11407 14574 14582 15217 21515 21756 22205 23927 24604 24830 24883 25423 26813 27214 27833 28411 29422
+FC    ? android.hardware.soundtrigger@2.3::ISoundTriggerHw/default                            N/A        934    934
+FC    ? android.hardware.thermal@2.0::IThermal/default                                        N/A        956    956
+FM    ? android.hidl.memory@1.0::IMapper/ashmem                                               N/A        N/A    934 937 946 1022 1364 1403
+FC    ? vendor.mediatek.hardware.bluetooth.audio@2.2::IBluetoothAudioProvidersFactory/default N/A        934    934
+FC    ? vendor.mediatek.hardware.camera.atms@1.0::IATMs/default                               N/A        1364   1364
+FC    ? vendor.mediatek.hardware.camera.bgservice@1.1::IBGService/internal/0                  N/A        1364   1364
+X     ? vendor.mediatek.hardware.camera.isphal@1.0::IISPModule/internal/0                     N/A        1364   1364
+FC    ? vendor.mediatek.hardware.camera.isphal@1.1::IISPModule/internal/0                     N/A        1364   1364
+FC    ? vendor.mediatek.hardware.mtkpower@1.2::IMtkPerf/default                               N/A        975    975
+FC    ? vendor.mediatek.hardware.mtkpower@1.2::IMtkPower/default                              N/A        975    975
+FC    ? vendor.mediatek.hardware.nvram@1.1::INvram/default                                    N/A        976    976
+FC    ? vendor.mediatek.hardware.pq@2.15::IPictureQuality/default                             N/A        1403   1403
+FC    ? vendor.mediatek.hardware.videotelephony@1.0::IVideoTelephony/default                  N/A        959    959
+FC    ? vendor.xiaomi.hardware.displayfeature@1.0::IDisplayFeature/default                    N/A        981    981
+FC    ? vendor.xiaomi.hw.touchfeature@1.0::ITouchFeature/default                              N/A        1011   1011
+
+| All available HIDL passthrough implementations (all -impl.so files).
+| These may return subclasses through their respective HIDL_FETCH_I* functions.
+VINTF R Interface                                                                  Thread Use Server Clients
+X     ? android.hardware.audio.effect@6.0::I*/* (/vendor/lib/hw/)                  N/A        N/A    
+X     ? android.hardware.audio.effect@6.0::I*/* (/vendor/lib64/hw/)                N/A        N/A    
+X     ? android.hardware.audio.effect@7.0::I*/* (/vendor/lib/hw/)                  N/A        N/A    
+X     ? android.hardware.audio.effect@7.0::I*/* (/vendor/lib64/hw/)                N/A        N/A    
+X     ? android.hardware.audio@6.0::I*/* (/vendor/lib/hw/) (-mediatek)             N/A        N/A    
+X     ? android.hardware.audio@6.0::I*/* (/vendor/lib64/hw/) (-mediatek)           N/A        N/A    
+X     ? android.hardware.audio@7.0::I*/* (/vendor/lib/hw/) (-mediatek)             N/A        N/A    
+X     ? android.hardware.audio@7.0::I*/* (/vendor/lib64/hw/) (-mediatek)           N/A        N/A    
+X     ? android.hardware.bluetooth.audio@2.0::I*/* (/vendor/lib/hw/)               N/A        N/A    
+X     ? android.hardware.bluetooth.audio@2.0::I*/* (/vendor/lib64/hw/)             N/A        N/A    
+X     ? android.hardware.bluetooth.audio@2.1::I*/* (/vendor/lib/hw/)               N/A        N/A    
+X     ? android.hardware.bluetooth.audio@2.1::I*/* (/vendor/lib64/hw/)             N/A        N/A    
+X     ? android.hardware.bluetooth@1.1::I*/* (/vendor/lib/hw/) (-mediatek)         N/A        N/A    
+X     ? android.hardware.bluetooth@1.1::I*/* (/vendor/lib64/hw/) (-mediatek)       N/A        N/A    
+X     ? android.hardware.boot@1.0::I*/* (/vendor/lib/hw/) (-1.2-mtkimpl)           N/A        N/A    
+X     ? android.hardware.boot@1.0::I*/* (/vendor/lib64/hw/) (-1.2-mtkimpl)         N/A        N/A    
+X     ? android.hardware.camera.provider@2.6::I*/* (/vendor/lib64/hw/) (-mediatek) N/A        N/A    
+X     ? android.hardware.gatekeeper@1.0::I*/* (/vendor/lib/hw/)                    N/A        N/A    
+X     ? android.hardware.gatekeeper@1.0::I*/* (/vendor/lib64/hw/)                  N/A        N/A    
+X     ? android.hardware.gnss@2.1::I*/* (/vendor/lib64/hw/) (-mediatek)            N/A        N/A    
+X     ? android.hardware.graphics.mapper@4.0::I*/* (/vendor/lib/hw/) (-mediatek)   N/A        N/A    
+X     ? android.hardware.graphics.mapper@4.0::I*/* (/vendor/lib64/hw/) (-mediatek) N/A        N/A    
+X     ? android.hardware.health@2.0::I*/* (/vendor/lib/hw/) (-2.1)                 N/A        N/A    
+X     ? android.hardware.health@2.0::I*/* (/vendor/lib64/hw/) (-2.1)               N/A        N/A    
+X     ? android.hardware.ir@1.0::I*/* (/vendor/lib/hw/)                            N/A        N/A    
+X     ? android.hardware.ir@1.0::I*/* (/vendor/lib64/hw/)                          N/A        N/A    
+X     ? android.hardware.nfc@1.0::I*/* (/vendor/lib/hw/)                           N/A        N/A    
+X     ? android.hardware.nfc@1.0::I*/* (/vendor/lib64/hw/)                         N/A        N/A    
+X     ? android.hardware.renderscript@1.0::I*/* (/vendor/lib/hw/)                  N/A        N/A    
+X     ? android.hardware.renderscript@1.0::I*/* (/vendor/lib64/hw/)                N/A        N/A    
+X     ? android.hardware.soundtrigger@2.3::I*/* (/vendor/lib/hw/)                  N/A        N/A    
+X     ? android.hardware.soundtrigger@2.3::I*/* (/vendor/lib64/hw/)                N/A        N/A    
+X     ? android.hardware.thermal@1.0::I*/* (/vendor/lib/hw/)                       N/A        N/A    
+X     ? android.hardware.thermal@1.0::I*/* (/vendor/lib64/hw/)                     N/A        N/A    
+X     ? android.hardware.thermal@2.0::I*/* (/vendor/lib/hw/)                       N/A        N/A    
+X     ? android.hardware.thermal@2.0::I*/* (/vendor/lib64/hw/)                     N/A        N/A    
+X     ? android.hidl.memory@1.0::I*/* (/apex/com.android.vndk.v31/lib/hw/)         N/A        N/A    
+X     ? android.hidl.memory@1.0::I*/* (/apex/com.android.vndk.v31/lib64/hw/)       N/A        N/A    
+X     ? vendor.mediatek.hardware.bluetooth.audio@2.1::I*/* (/vendor/lib/hw/)       N/A        N/A    
+X     ? vendor.mediatek.hardware.bluetooth.audio@2.1::I*/* (/vendor/lib64/hw/)     N/A        N/A    
+X     ? vendor.mediatek.hardware.bluetooth.audio@2.2::I*/* (/vendor/lib/hw/)       N/A        N/A    
+X     ? vendor.mediatek.hardware.bluetooth.audio@2.2::I*/* (/vendor/lib64/hw/)     N/A        N/A    
+X     ? vendor.mediatek.hardware.camera.atms@1.0::I*/* (/vendor/lib/hw/)           N/A        N/A    
+X     ? vendor.mediatek.hardware.camera.atms@1.0::I*/* (/vendor/lib64/hw/)         N/A        N/A    
+X     ? vendor.mediatek.hardware.camera.bgservice@1.1::I*/* (/vendor/lib/hw/)      N/A        N/A    
+X     ? vendor.mediatek.hardware.camera.bgservice@1.1::I*/* (/vendor/lib64/hw/)    N/A        N/A    
+X     ? vendor.mediatek.hardware.camera.ccap@1.0::I*/* (/vendor/lib64/hw/)         N/A        N/A    
+X     ? vendor.mediatek.hardware.camera.isphal@1.0::I*/* (/vendor/lib64/hw/)       N/A        N/A    
+X     ? vendor.mediatek.hardware.camera.isphal@1.1::I*/* (/vendor/lib64/hw/)       N/A        N/A    
+X     ? vendor.mediatek.hardware.camera.lomoeffect@1.0::I*/* (/vendor/lib64/hw/)   N/A        N/A    
+X     ? vendor.mediatek.hardware.mms@1.6::I*/* (/vendor/lib/hw/)                   N/A        N/A    
+X     ? vendor.mediatek.hardware.mms@1.6::I*/* (/vendor/lib64/hw/)                 N/A        N/A    
+X     ? vendor.mediatek.hardware.mtkpower@1.2::I*/* (/vendor/lib/hw/)              N/A        N/A    
+X     ? vendor.mediatek.hardware.mtkpower@1.2::I*/* (/vendor/lib64/hw/)            N/A        N/A    
+X     ? vendor.mediatek.hardware.nvram@1.1::I*/* (/vendor/lib/hw/)                 N/A        N/A    
+X     ? vendor.mediatek.hardware.nvram@1.1::I*/* (/vendor/lib64/hw/)               N/A        N/A    
+X     ? vendor.mediatek.hardware.pq@2.15::I*/* (/vendor/lib/hw/)                   N/A        N/A    
+X     ? vendor.mediatek.hardware.pq@2.15::I*/* (/vendor/lib64/hw/)                 N/A        N/A    
+X     ? vendor.mediatek.hardware.videotelephony@1.0::I*/* (/vendor/lib/hw/)        N/A        N/A    
+X     ? vendor.mediatek.hardware.videotelephony@1.0::I*/* (/vendor/lib64/hw/)      N/A        N/A    
+X     ? vendor.xiaomi.hardware.cld@1.0::I*/* (/vendor/lib/hw/)                     N/A        N/A    
+X     ? vendor.xiaomi.hardware.cld@1.0::I*/* (/vendor/lib64/hw/)                   N/A        N/A    
+X     ? vendor.xiaomi.hardware.displayfeature@1.0::I*/* (/vendor/lib/hw/)          N/A        N/A    
+X     ? vendor.xiaomi.hardware.displayfeature@1.0::I*/* (/vendor/lib64/hw/)        N/A        N/A    
+X     ? vendor.xiaomi.hardware.micharge@1.0::I*/* (/vendor/lib/hw/)                N/A        N/A    
+X     ? vendor.xiaomi.hardware.micharge@1.0::I*/* (/vendor/lib64/hw/)              N/A        N/A    
+X     ? vendor.xiaomi.hardware.misys@1.0::I*/* (/vendor/lib/hw/)                   N/A        N/A    
+X     ? vendor.xiaomi.hardware.misys@1.0::I*/* (/vendor/lib64/hw/)                 N/A        N/A    
+X     ? vendor.xiaomi.hardware.misys@2.0::I*/* (/vendor/lib/hw/)                   N/A        N/A    
+X     ? vendor.xiaomi.hardware.misys@2.0::I*/* (/vendor/lib64/hw/)                 N/A        N/A    
+X     ? vendor.xiaomi.hardware.misys@3.0::I*/* (/vendor/lib/hw/)                   N/A        N/A    
+X     ? vendor.xiaomi.hardware.misys@3.0::I*/* (/vendor/lib64/hw/)                 N/A        N/A    
+X     ? vendor.xiaomi.hardware.misys@4.0::I*/* (/vendor/lib/hw/)                   N/A        N/A    
+X     ? vendor.xiaomi.hardware.misys@4.0::I*/* (/vendor/lib64/hw/)                 N/A        N/A    
+X     ? vendor.xiaomi.hw.touchfeature@1.0::I*/* (/vendor/lib/hw/)                  N/A        N/A    
+X     ? vendor.xiaomi.hw.touchfeature@1.0::I*/* (/vendor/lib64/hw/)                N/A        N/A    
+
+
+
+ls /vendor/lib64/hw/                                                                                                                                                                                                  
+android.hardware.audio.effect@6.0-impl.so              android.hardware.soundtrigger@2.3-impl.so  gralloc.default.so                                     vendor.mediatek.hardware.camera.isphal@1.1-impl.so
+android.hardware.audio.effect@7.0-impl.so              android.hardware.thermal@1.0-impl.so       gralloc.rogue.so                                       vendor.mediatek.hardware.camera.lomoeffect@1.0-impl.so
+android.hardware.audio@6.0-impl-mediatek.so            android.hardware.thermal@2.0-impl.so       hwcomposer.mtk_common.so                               vendor.mediatek.hardware.mms@1.6-impl.so
+android.hardware.audio@7.0-impl-mediatek.so            audio.bluetooth.default.so                 hwcomposer.mtk_fold.so                                 vendor.mediatek.hardware.mtkpower@1.2-impl.so
+android.hardware.bluetooth.audio@2.0-impl.so           audio.primary.default.so                   libSoftGatekeeper.so                                   vendor.mediatek.hardware.nvram@1.1-impl.so
+android.hardware.bluetooth.audio@2.1-impl.so           audio.primary.mediatek.so                  local_time.default.so                                  vendor.mediatek.hardware.pq@2.15-impl.so
+android.hardware.bluetooth@1.1-impl-mediatek.so        audio.primary.mt6855.so                    mt6855                                                 vendor.mediatek.hardware.videotelephony@1.0-impl.so
+android.hardware.boot@1.0-impl-1.2-mtkimpl.so          audio.r_submix.default.so                  power.default.so                                       vendor.xiaomi.hardware.cld@1.0-impl.so
+android.hardware.camera.provider@2.6-impl-mediatek.so  audio.r_submix.mediatek.so                 sensors.mediatek.V2.0.so                               vendor.xiaomi.hardware.displayfeature@1.0-impl.so
+android.hardware.gatekeeper@1.0-impl.so                audio.r_submix.mt6855.so                   sensors.mt6855.so                                      vendor.xiaomi.hardware.micharge@1.0-impl.so
+android.hardware.gnss-impl-mediatek.so                 audio.usb.default.so                       sound_trigger.primary.default.so                       vendor.xiaomi.hardware.misys@1.0-impl.so
+android.hardware.gnss@2.1-impl-mediatek.so             audio_policy.stub.so                       thermal_hal.so                                         vendor.xiaomi.hardware.misys@2.0-impl.so
+android.hardware.graphics.mapper@4.0-impl-mediatek.so  consumerir.default.so                      vendor.mediatek.hardware.bluetooth.audio@2.1-impl.so   vendor.xiaomi.hardware.misys@3.0-impl.so
+android.hardware.health@2.0-impl-2.1.so                fingerprint.goodix_fod.default.so          vendor.mediatek.hardware.bluetooth.audio@2.2-impl.so   vendor.xiaomi.hardware.misys@4.0-impl.so
+android.hardware.ir@1.0-impl.so                        fingerprint.jiiov.default.so               vendor.mediatek.hardware.camera.atms@1.0-impl.so       vendor.xiaomi.hw.touchfeature@1.0-impl.so
+android.hardware.nfc@1.0-impl.so                       gatekeeper.default.so                      vendor.mediatek.hardware.camera.bgservice@1.1-impl.so  vibrator.default.so
+android.hardware.renderscript@1.0-impl.so              gatekeeper.mitee.so                        vendor.mediatek.hardware.camera.ccap@1.0-impl.so       vulkan.mtk.so
+android.hardware.sensors@2.X-subhal-mediatek.so        gps.default.so                             vendor.mediatek.hardware.camera.isphal@1.0-impl.so
+
