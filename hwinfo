@@ -1,0 +1,49 @@
+https://www.deviceinfohw.ru/devices/item.php?item=105407
+Xiaomi,Redmi
+
+MODEL	24094RAD4G
+DEVICE,BOARD citrine
+HARDWARE mt6855
+
+SOC	Dimensity 7025-Ultra
+Redmi/citrine_global/citrine:15/AP3A.240905.015.A2/OS2.0.211.0.VOQMIXM:user/release-keys
+
+SOUND	mt6855 mt6369
+ACCELEROMETER	lsm6dsvq_acc
+ALSPS	sip1328_als virtual_ps
+MAGNETOMETER	qmc6308
+GYROSCOPE	lsm6dsvq_gyro
+CHARGER	USE PMIC
+PMIC	mt6375
+
+TOUCHSCREEN	fts_ts
+CAMERA	s5khm6_ofilm_main_i_mipi_raw
+ov20b40_aac_front_i_mipi_raw
+sc820cs_aac_ultra_i_mipi_raw
+sc202pcs_aac_macro_i_mipi_raw
+LENS	MAINAF
+WIFI	CONSYS_MT6855
+
+CPU	MT6855V_A/ATZA
+CORES	8
+FAMILY	Cortex-A78 Cortex-A55
+CLUSTERS	2 x 2.50 GHz 6 x 2.00 GHz
+CLOCK_SPEED	500 - 2500 MHz
+REVISION	r1p0 r2p0
+TECHPROCESS	6 nm
+
+GPU_VENDOR	Imagination Technologies
+GPU_MODEL	PowerVR B-Series BXM-8-256
+GPU_VERSION	3.2 build 1.15@6133110
+RAM	8 GB
+FLASH	UFS
+NFC	nxp,sn-nci
+FINGERPRINT_SENSOR	xiaomi-fp
+
+
+DRM
+google
+Widevine CDM L1 
+AES/CBC/Nopadding,HmacSHA256
+HDCP-2.3
+Max session 50
