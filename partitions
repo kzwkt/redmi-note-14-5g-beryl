@@ -6,7 +6,7 @@ bootloader1   connsys_wifi_a  dram_para      flashinfo  gz_b         logo_b   me
 bootloader2   connsys_wifi_b  dtbo_a         frp        init_boot_a  mcupm_a  misc      otp       preloader_raw_b  scp_b     spmfw_a  tee_b     vbmeta_vendor_a
 connsys_bt_a  countrycode_a   dtbo_b         gpueb_a    init_boot_b  mcupm_b  nvcfg     para      proinfo          sda       spmfw_b  userdata  vbmeta_vendor_b
 
-f -h
+df -h
 Filesystem        Size Used Avail Use% Mounted on
 /dev/block/dm-14  784M 784M     0 100% /
 tmpfs             3.6G 3.3M  3.6G   1% /dev
